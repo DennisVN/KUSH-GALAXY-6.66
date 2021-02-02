@@ -42,10 +42,8 @@ Background image & Background track by  Beacoupdargent, track title : Orbital
 Made in Ableton live 9 Suite.
 Made this myself so there is no copyright infrigement ;). 
 
-_________________________________________________
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
-° Yellow player on the left (YELLOW_SPACESHIP): °
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+Yellow player on the left (YELLOW_SPACESHIP): 
+
             Controls:
   Shoot :             Ctrl (left)
   Move Up :           z
@@ -54,20 +52,16 @@ _________________________________________________
   Move Right :        d
   
   
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
-° Red player on the right (RED_SPACESHIP)°
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Red player on the right (RED_SPACESHIP)
+
            Controls:
   Shoot :             Ctrl (right) 
   Move Up :           ARROW UP
   Move Down :         ARROW DWN
   Move Left :         LEFT ARROW
   Move Right :        RIGHT ARROW
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°  
-  ______________________________________________
-  
-  
-  
+
   Thanks for playing and thanks for your time !
   
   -Dennis (Beaucoupdargent) 
